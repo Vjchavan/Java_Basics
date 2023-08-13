@@ -1,2 +1,2 @@
-# Learn-C++ and DSA
-Learning C++ and solving coding problems
+# Learn Java and DSA
+Learning Java and solving coding problems
